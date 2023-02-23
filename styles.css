@@ -1,0 +1,25 @@
+/* 
+
+The one style sheet for Quotations 1
+
+Authors: Rick Mercer and Kevin Callaghan
+
+*/
+.container {
+	vertical-align: text-top;
+	border: 2px grey solid;
+	border-radius: 14px;
+	padding: 5px;
+	margin: 5px;
+	font-size: 10pt;	
+}
+
+.quoteInput{
+	padding: 5px;
+	margin: 5px;
+}
+
+.authorInput{
+	width: 33%;
+	margin: 5px;
+}
